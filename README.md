@@ -21,6 +21,9 @@ E começando o aprendizado em:
 <a href="https://www.linkedin.com/in/erick-bittencourt/" target="_blank">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+  <a href="https://web.whatsapp.com/send?phone=5511987217124" target="_blank">
+    <img align="left" alt="whatszap" width="25px" src="https://static-00.iconduck.com/assets.00/whatsapp-icon-512x512-jtfg9vc0.png"/>
+  </a>
 </p>
 <br />
 <br />
