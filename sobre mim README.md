@@ -1,7 +1,7 @@
 ### Hi there 😎
 
 
-Eu sou Erick Bittencourt, sou programador Fornt-End, atualmente estou aprendendo e desenvolvendo projetos com:
+Eu sou Erick Bittencourt, sou programador Front-End, atualmente estou aprendendo e desenvolvendo projetos com:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" atl="html-logo"/>
 
